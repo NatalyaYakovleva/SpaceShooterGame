@@ -1,0 +1,10 @@
+E:\VisualStudioCommunity\WinForm\Космический шутер\Space Shooting\Space Shooting\bin\Debug\Space Shooting.exe.config
+E:\VisualStudioCommunity\WinForm\Космический шутер\Space Shooting\Space Shooting\bin\Debug\Space Shooting.exe
+E:\VisualStudioCommunity\WinForm\Космический шутер\Space Shooting\Space Shooting\bin\Debug\Space Shooting.pdb
+E:\VisualStudioCommunity\WinForm\Космический шутер\Space Shooting\Space Shooting\obj\Debug\Space Shooting.csprojAssemblyReference.cache
+E:\VisualStudioCommunity\WinForm\Космический шутер\Space Shooting\Space Shooting\obj\Debug\Space_Shooting.Form1.resources
+E:\VisualStudioCommunity\WinForm\Космический шутер\Space Shooting\Space Shooting\obj\Debug\Space_Shooting.Properties.Resources.resources
+E:\VisualStudioCommunity\WinForm\Космический шутер\Space Shooting\Space Shooting\obj\Debug\Space Shooting.csproj.GenerateResource.cache
+E:\VisualStudioCommunity\WinForm\Космический шутер\Space Shooting\Space Shooting\obj\Debug\Space Shooting.csproj.CoreCompileInputs.cache
+E:\VisualStudioCommunity\WinForm\Космический шутер\Space Shooting\Space Shooting\obj\Debug\Space Shooting.exe
+E:\VisualStudioCommunity\WinForm\Космический шутер\Space Shooting\Space Shooting\obj\Debug\Space Shooting.pdb
